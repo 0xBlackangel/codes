@@ -1,6 +1,6 @@
 
 start/
-# Logs 
+# Logs bugs
 logs
 *.log
 npm-debug.log*
