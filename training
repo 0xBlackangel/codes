@@ -80,6 +80,9 @@ typings/
 # Next.js build output
 .next
 
+# Next.js build output
+.next
+
 # Nuxt.js build / generate output
 .nuxt
 dist
